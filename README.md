@@ -40,7 +40,7 @@ Cryptocurrency is not offered as an accepted means of payment.
 
 The payment subscription link is the following:
 
-https://buy.stripe.com/cNi4gB2Gs8Wp03t8Jk0kE04
+[https://buy.stripe.com/cNi4gB2Gs8Wp03t8Jk0kE04](https://buy.stripe.com/cNi4gB2Gs8Wp03t8Jk0kE04)
 
 <img width="110" alt="qr_cNi4gB2Gs8Wp03t8Jk0kE04" src="https://github.com/user-attachments/assets/f040ca74-ff96-40d8-b19d-353908c9731d" />
 
