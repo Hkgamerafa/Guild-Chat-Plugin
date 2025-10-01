@@ -72,6 +72,11 @@ Donations are independent of subscription fees and don't continue, substitute, o
 
 If you wish to make a donation you acknowledge that donations are entirely voluntary contributions made to show appreciation or in an act of good will and can never be assumed to be required for the use of the service. Donations are non-refundable, not eligible for disputes or chargebacks and they don't constitute a purchase of goods or services.
 
+Donations can be made by following the Donation links for the following currencies:
+
+  - [Donate in euro](https://donate.stripe.com/14AcN70ykfkNeYne3E0kE06)
+  - [Donate in pounds](https://donate.stripe.com/00wbJ3a8U6Oh17x8Jk0kE05)
+
 ### Cancellation Policy
 Subscriptions may be canceled at any time by the customer through their payment provider's cancellation mechanism. Access to the service continues until the end of the current billing cycle, unless terminated earlier by the provider due to abuse, fraud, or violation of these terms. No partial refunds are provided for unused time within a billing cycle.
 
