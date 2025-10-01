@@ -36,8 +36,22 @@ Service is provided on a monthly subscription basis. The payments must be made i
 
 Cryptocurrency is not offered as an accepted means of payment.
 
+### Payment link
+
+The payment subscription link is the following:
+
+https://buy.stripe.com/cNi4gB2Gs8Wp03t8Jk0kE04
+
+<img width="110" alt="qr_cNi4gB2Gs8Wp03t8Jk0kE04" src="https://github.com/user-attachments/assets/f040ca74-ff96-40d8-b19d-353908c9731d" />
+
+
 ### Subscription Model
-Monthly Fee: $2.60/month.
+Monthly Fee: **`£2.00/month`**.
+
+Also available in other currencies:
+ - £2.00/month
+ - $2.6944/month
+ - €2.2985/month
 
 Includes setup, maintenance, and continuous service.
 
@@ -116,7 +130,6 @@ A: Yes. Subscriptions can be canceled through your payment provider. Access to t
 **Q: Do you offer refunds?**
 
 A: Refunds are generally not issued except in cases of extended downtime (48+ hours not caused by third parties or guild actions).
-
 
 **Q: Are donations required to use the service?**
 
